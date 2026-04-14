@@ -9,7 +9,7 @@ Click the "Fork" button at the top right of the repository page.
 
 ### 2. Clone Your Fork
 ```bash
-git clone https://github.com/YOUR_USERNAME/csv-data-analysis-agent.git
+git clone https://github.com/chintanrabadiya/csv-data-analysis-agent.git
 cd csv-data-analysis-agent
 ```
 

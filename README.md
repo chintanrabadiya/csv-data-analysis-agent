@@ -203,10 +203,6 @@ Contributions are welcome! Here's how you can help:
 - [ ] Export analysis reports (PDF, HTML)
 - [ ] Integration with LLMs for smarter insights
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with [pandas](https://pandas.pydata.org/)
@@ -214,9 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Chintan Rabadiya - [@chintanrabadiya](https://www.linkedin.com/in/chintan-rabadiya/)
 
-Project Link: [https://github.com/YOUR_USERNAME/csv-data-analysis-agent](https://github.com/YOUR_USERNAME/csv-data-analysis-agent)
+Project Link: [git remote add origin https://github.com/chintanrabadiya/csv-data-analysis-agent.git]
 
 ## 🗺️ Roadmap
 
