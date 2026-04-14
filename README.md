@@ -18,7 +18,7 @@ A Python-based intelligent agent that analyzes CSV datasets using pandas. Upload
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/csv-data-analysis-agent.git
+git clone https://github.com/chintanrabadiya/csv-data-analysis-agent.git
 cd csv-data-analysis-agent
 
 # Install dependencies
